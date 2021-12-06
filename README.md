@@ -1,46 +1,40 @@
 <h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
+  <img alt="Plant Manager" title="Plant Manager" src="https://raw.githubusercontent.com/vicentepaiva/plantManager-nlw5/main/.github/logo.png" />
 </h1>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=32B768&labelColor=000000">
-
- <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=32B768&labelColor=000000" alt="NLW 05" />
-</p>
 
 <br>
 
-<p align="center">
-  <img alt="Plant Manager" src=".github/plantmanager.png" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/vicentepaiva/plantManager-nlw5/main/.github/plantmanager.png">
 
-## ✨ Tecnologias
+### Tecnologias ✨ 
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+```
+React-Native
+Typescript
+Expo
+```
+<br>
 
-- [React Native](https://reactnative.dev/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Expo](https://expo.io/)
+### Projeto  💻  
 
-## 💻 Projeto
+- Aplicativo mobile para auxiliar nos cuidados de suas plantas de forma fácil e prática, de acordo com cada tipo específico de plantinha.<br>
+<br>
 
-Aplicativo para lhe ajudar a lembrar de cuidar de suas plantas de forma fácil de acordo com cada tipo de plantinha.
+### Ui Design 🔖 
 
-## 🔖 Layout
+- A UI desse projeto foi desenvolvida e fornecida por Tiago Luchtenberg, e você pode ter acesso [clicando aqui](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate). <br>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+> obs: É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+<br>
 
-## 🚀 Como executar
+### Rodando o projeto 🚀
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie seu app com `expo start`
-- Inicie a fake api com `json-server ./src/services server.json --host 192.168.1.4 --port 3333 --delay 700`. Substitua o host pelo seu endereço IP local. Faça o mesmo no arquivo API dentro de services.
+```
+Instale as dependências com npm ou yarn
+Build o seu app usando expo start
+Inicialize a fake api com `json-server ./src/services server.json --host 192.168.1.4 --port 3333 --delay 700`. Substitua o host pelo seu endereço IP local. Faça o mesmo no arquivo API dentro de services.
+```
 
-## 📄 Licença
+#### Licença📄 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
